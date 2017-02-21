@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    color: white;
+    background-image: url(img/dope.png);
+    list-style-type: none;
+}
+ul {
+    list-style-type: none;
+}
