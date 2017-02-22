@@ -1,2 +1,5 @@
 Flask
 flask-socketio
+requests
+flask_sqlalchemy
+os
